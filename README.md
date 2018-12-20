@@ -9,3 +9,6 @@ Project ideas
 - Hackerrank like system
 - Time tracker tools
 - Performance analyzer with integration with rescue time
+- Demo on Cricbuzz like content update system
+- School management system
+- Content management system
