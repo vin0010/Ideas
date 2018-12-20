@@ -20,3 +20,8 @@ Project ideas
         - Category - Tooth paste, groceries, electronics etc.
         - Product - Pepsodent, Lux, Samsung etc.
         - Site - amaozon, flipkart etc.
+        - timestamp - time on which its crawled.
+    - Updated prices can be uploaded in different file in any line.
+    - Need to expose APIs to give cheap products or categories and another basic search needs.
+    - Need to solve coherence problem
+    - need to come up with logic/tools to overcome outdated responses. 
